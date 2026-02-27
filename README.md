@@ -592,33 +592,17 @@ WEBHOOK_URL=https://your-domain.com/
 
 | Placeholder Path | Description | Source Image |
 |------------------|-------------|--------------|
-| `./images/cover.png` | Cover photo – AI Internship 6 Systems | Image 9 |
-| `./images/workflow1_overview.png` | Galaxy of Space full workflow view | Image 1 or 5 |
-| `./images/workflow2_calendar_agent.png` | Calendar AI Agent editor + chat demo | Image 2 |
-| `./images/workflow3_lead_capture.png` | Webhook + Gemini + Gmail flow | Image 3 |
-| `./images/workflow3_form_variant.png` | Form submission variant | Image 7 |
-| `./images/workflow4_hr_rag.png` | HR RAG Assistant full pipeline | Image 4 |
-| `./images/workflow5_appointment_ai.png` | Dr. Strange Appointment Scheduler | Image 6 |
-| `./images/workflow6_physiobot.png` | DR Marvel PhysioBot Telegram | Image 8 |
+| `cover.png` | Cover photo – AI Internship 6 Systems | Image 9 |
+| `workflow1_overview.png` | Galaxy of Space full workflow view | Image 1 or 5 |
+| `workflow2_calendar_agent.png` | Calendar AI Agent editor + chat demo | Image 2 |
+| `workflow3_lead_capture.png` | Webhook + Gemini + Gmail flow | Image 3 |
+| `workflow3_form_variant.png` | Form submission variant | Image 7 |
+| `workflow4_hr_rag.png` | HR RAG Assistant full pipeline | Image 4 |
+| `workflow5_appointment_ai.png` | Dr. Strange Appointment Scheduler | Image 6 |
+| `workflow6_physiobot.png` | DR Marvel PhysioBot Telegram | Image 8 |
 
 ---
 
-## 🤝 Contributing
-
-1. Fork this repository
-2. Create your workflow branch: `git checkout -b workflow/your-feature`
-3. Export your n8n workflow JSON
-4. Add screenshots to `/images` folder
-5. Update this README with your workflow details
-6. Submit a Pull Request
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
 
