@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Cover](./images/cover.png)
+![Cover](cover.png)
 <!-- Placeholder: Replace with Image 9 - AI Internship 6 Systems cover photo -->
 
 [![n8n](https://img.shields.io/badge/Built%20with-n8n-orange?style=for-the-badge&logo=n8n)](https://n8n.io)
@@ -52,7 +52,7 @@ This repository documents **6 end-to-end AI automation systems** built using n8n
 
 <div align="center">
 
-![Galaxy of Space Workflow](./images/workflow1_overview.png)
+![Galaxy of Space Workflow](workflow1_overview.png)
 <!-- Placeholder: Replace with Image 1/5 - Galaxy of Space n8n editor screenshot -->
 
 </div>
@@ -118,7 +118,7 @@ GMAIL_SENDER=your@gmail.com
 
 <div align="center">
 
-![Calendar AI Agent](./images/workflow2_calendar_agent.png)
+![Calendar AI Agent](workflow2_calendar_agent.png)
 <!-- Placeholder: Replace with Image 2 - Calendar AI Agent screenshot -->
 
 </div>
@@ -186,11 +186,10 @@ Agent: ✅ Your event has been successfully scheduled!
 
 <div align="center">
 
-![AI Lead Capture Workflow](./images/workflow3_lead_capture.png)
+![AI Lead Capture Workflow](workflow3_lead_capture.png)
 <!-- Placeholder: Replace with Image 3 - Webhook + Gemini + Gmail workflow screenshot -->
 
-![Form Submission Variant](./images/workflow3_form_variant.png)
-<!-- Placeholder: Replace with Image 7 - On form submission variant screenshot -->
+
 
 </div>
 
@@ -253,7 +252,7 @@ Respond to Webhook
 
 <div align="center">
 
-![HR RAG Assistant](./images/workflow4_hr_rag.png)
+![HR RAG Assistant](workflow4_hr_rag.png)
 <!-- Placeholder: Replace with Image 4 - HR RAG Assistant n8n editor screenshot -->
 
 </div>
@@ -329,7 +328,7 @@ Metric: cosine
 
 <div align="center">
 
-![Dr. Strange Appointment AI](./images/workflow5_appointment_ai.png)
+![Dr. Strange Appointment AI](workflow5_appointment_ai.png)
 <!-- Placeholder: Replace with Image 6 - Dr. Strange Appointment Scheduling AI screenshot -->
 
 </div>
@@ -401,7 +400,7 @@ Bot:     Your appointment with Dr. Strange is confirmed for today
 
 <div align="center">
 
-![DR Marvel PhysioBot](./images/workflow6_physiobot.png)
+![DR Marvel PhysioBot](workflow6_physiobot.png)
 <!-- Placeholder: Replace with Image 8 - DR Marvel PhysioBot Telegram workflow screenshot -->
 
 </div>
